@@ -1,7 +1,9 @@
 import { Injectable } from '@nestjs/common';
-import { Client } from 'whatsapp-web.js';
+import { Client, RemoteAuth } from 'whatsapp-web.js';
 import * as fs from 'fs';
 import * as qrcode from 'qrcode-terminal';
+import { MongoStore } from 'wwebjs-mongo';
+import mongoose from 'mongoose';
 
 @Injectable()
 export class WhatsappProvider {
@@ -12,25 +14,38 @@ export class WhatsappProvider {
   }
 
   private createClient(): void {
-    this.client = new Client({});
-    this.client.on('qr', (qr) => {
-      // Generate and scan this code with your phone
-      qrcode.generate(qr, { small: true });
-      console.log('QR RECEIVED', qr);
-    });
-    this.client.on('ready', () => {
-      console.log('Client is ready!');
-    });
+    mongoose.connect('mongodb://localhost:27017/whatsapp').then(() => {
+      const store = new MongoStore({ mongoose: mongoose });
+      this.client = new Client({
+        authStrategy: new RemoteAuth({
+          store: store,
+          backupSyncIntervalMs: 300000
+        })
+      });
 
-    this.client.on('message', msg => {
-      console.log(msg.body);
 
-      if (msg.body == 'hello') {
-        msg.reply('pong');
-      }
+      // this.client = new Client({
+      //   authStrategy: new LocalAuth()
+      // });
+      this.client.on('qr', (qr) => {
+        // Generate and scan this code with your phone
+        qrcode.generate(qr, { small: true });
+        console.log('QR RECEIVED', qr);
+      });
+      this.client.on('ready', () => {
+        console.log('Client is ready!');
+      });
+
+      this.client.on('message', msg => {
+        console.log(msg.body);
+
+        if (msg.body == 'hello') {
+          msg.reply('pong');
+        }
+      });
+
+      this.client.initialize();
     });
-
-    this.client.initialize();
   }
 
   // private createClient(): void {
