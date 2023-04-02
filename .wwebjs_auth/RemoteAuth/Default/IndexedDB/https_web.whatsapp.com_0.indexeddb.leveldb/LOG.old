@@ -1,249 +1,152 @@
-2023/03/30-21:36:17.798 4734 Reusing MANIFEST C:\Users\ng988\Documents\project\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/30-21:36:17.804 4734 Recovering log #56
-2023/03/30-21:36:17.904 4734 Reusing old log C:\Users\ng988\Documents\project\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000056.log 
-2023/03/30-21:36:37.781 42bc Level-0 table #66: started
-2023/03/30-21:36:38.037 42bc Level-0 table #66: 1062838 bytes OK
-2023/03/30-21:36:38.156 42bc Delete type=0 #56
-2023/03/30-21:36:39.373 3a1c Compacting 1@0 + 3@1 files
-2023/03/30-21:36:39.788 3a1c Generated table #67@0: 18660 keys, 2189121 bytes
-2023/03/30-21:36:40.160 3a1c Generated table #68@0: 11042 keys, 2192473 bytes
-2023/03/30-21:36:40.485 3a1c Generated table #69@0: 35985 keys, 2085496 bytes
-2023/03/30-21:36:40.485 3a1c Compacted 1@0 + 3@1 files => 6467090 bytes
-2023/03/30-21:36:40.539 3a1c compacted to: files[ 0 3 2 0 0 0 0 ]
-2023/03/30-21:36:40.539 3a1c Delete type=2 #59
-2023/03/30-21:36:40.539 3a1c Delete type=2 #60
-2023/03/30-21:36:40.539 3a1c Delete type=2 #61
-2023/03/30-21:36:40.539 3a1c Delete type=2 #66
-2023/03/30-21:36:42.301 3a1c Compacting 1@1 + 2@2 files
-2023/03/30-21:36:42.653 3a1c Generated table #70@1: 40238 keys, 2220020 bytes
-2023/03/30-21:36:42.867 3a1c Generated table #71@1: 7337 keys, 2163376 bytes
-2023/03/30-21:36:43.023 3a1c Generated table #72@1: 1654 keys, 1501651 bytes
-2023/03/30-21:36:43.023 3a1c Compacted 1@1 + 2@2 files => 5885047 bytes
-2023/03/30-21:36:43.075 3a1c compacted to: files[ 0 2 3 0 0 0 0 ]
-2023/03/30-21:36:43.076 3a1c Delete type=2 #62
-2023/03/30-21:36:43.076 3a1c Delete type=2 #63
-2023/03/30-21:36:43.076 3a1c Delete type=2 #67
-2023/03/30-21:37:06.086 3a1c Level-0 table #74: started
-2023/03/30-21:37:06.160 3a1c Level-0 table #74: 1083227 bytes OK
-2023/03/30-21:37:06.182 3a1c Delete type=0 #65
-2023/03/30-21:37:07.109 28d8 Compacting 1@0 + 2@1 files
-2023/03/30-21:37:07.408 28d8 Generated table #75@0: 27393 keys, 2201555 bytes
-2023/03/30-21:37:07.674 28d8 Generated table #76@0: 34729 keys, 2260565 bytes
-2023/03/30-21:37:07.768 28d8 Generated table #77@0: 14884 keys, 442889 bytes
-2023/03/30-21:37:07.768 28d8 Compacted 1@0 + 2@1 files => 4905009 bytes
-2023/03/30-21:37:07.816 28d8 compacted to: files[ 0 3 3 0 0 0 0 ]
-2023/03/30-21:37:07.816 28d8 Delete type=2 #68
-2023/03/30-21:37:07.816 28d8 Delete type=2 #69
-2023/03/30-21:37:07.816 28d8 Delete type=2 #74
-2023/03/30-21:37:11.476 28d8 Compacting 1@1 + 3@2 files
-2023/03/30-21:37:11.748 28d8 Generated table #78@1: 44469 keys, 2226004 bytes
-2023/03/30-21:37:11.934 28d8 Generated table #79@1: 2891 keys, 2156998 bytes
-2023/03/30-21:37:12.100 28d8 Generated table #80@1: 2224 keys, 2160760 bytes
-2023/03/30-21:37:12.428 28d8 Generated table #81@1: 6661 keys, 1003445 bytes
-2023/03/30-21:37:12.428 28d8 Compacted 1@1 + 3@2 files => 7547207 bytes
-2023/03/30-21:37:12.502 28d8 compacted to: files[ 0 2 4 0 0 0 0 ]
-2023/03/30-21:37:12.502 28d8 Delete type=2 #70
-2023/03/30-21:37:12.502 28d8 Delete type=2 #71
-2023/03/30-21:37:12.502 28d8 Delete type=2 #72
-2023/03/30-21:37:12.502 28d8 Delete type=2 #75
-2023/03/30-21:37:47.545 3a1c Level-0 table #83: started
-2023/03/30-21:37:47.876 3a1c Level-0 table #83: 1067475 bytes OK
-2023/03/30-21:37:47.975 3a1c Delete type=0 #73
-2023/03/30-21:37:48.735 4734 Compacting 1@0 + 2@1 files
-2023/03/30-21:37:49.078 4734 Generated table #84@0: 50896 keys, 2277550 bytes
-2023/03/30-21:37:49.291 4734 Generated table #85@0: 30709 keys, 994909 bytes
-2023/03/30-21:37:49.291 4734 Compacted 1@0 + 2@1 files => 3272459 bytes
-2023/03/30-21:37:49.349 4734 compacted to: files[ 0 2 4 0 0 0 0 ]
-2023/03/30-21:37:49.349 4734 Delete type=2 #76
-2023/03/30-21:37:49.349 4734 Delete type=2 #77
-2023/03/30-21:37:49.350 4734 Delete type=2 #83
-2023/03/30-21:37:53.927 3a1c Compacting 1@1 + 4@2 files
-2023/03/30-21:37:54.244 3a1c Generated table #86@1: 44638 keys, 2228098 bytes
-2023/03/30-21:37:54.776 3a1c Generated table #87@1: 3400 keys, 2157103 bytes
-2023/03/30-21:37:55.145 3a1c Generated table #88@1: 2233 keys, 2159674 bytes
-2023/03/30-21:37:55.532 3a1c Generated table #89@1: 19096 keys, 2236930 bytes
-2023/03/30-21:37:55.842 3a1c Generated table #90@1: 17701 keys, 867184 bytes
-2023/03/30-21:37:55.842 3a1c Compacted 1@1 + 4@2 files => 9648989 bytes
-2023/03/30-21:37:55.916 3a1c compacted to: files[ 0 1 5 0 0 0 0 ]
-2023/03/30-21:37:55.916 3a1c Delete type=2 #78
-2023/03/30-21:37:55.916 3a1c Delete type=2 #79
-2023/03/30-21:37:55.916 3a1c Delete type=2 #80
-2023/03/30-21:37:55.917 3a1c Delete type=2 #81
-2023/03/30-21:37:55.917 3a1c Delete type=2 #84
-2023/03/30-21:38:06.682 4734 Level-0 table #92: started
-2023/03/30-21:38:06.848 4734 Level-0 table #92: 1034304 bytes OK
-2023/03/30-21:38:06.875 4734 Delete type=0 #82
-2023/03/30-21:38:07.745 3dc0 Compacting 1@0 + 1@1 files
-2023/03/30-21:38:08.011 3dc0 Generated table #93@0: 58969 keys, 1588227 bytes
-2023/03/30-21:38:08.011 3dc0 Compacted 1@0 + 1@1 files => 1588227 bytes
-2023/03/30-21:38:08.041 3dc0 compacted to: files[ 0 1 5 0 0 0 0 ]
-2023/03/30-21:38:08.041 3dc0 Delete type=2 #85
-2023/03/30-21:38:08.041 3dc0 Delete type=2 #92
-2023/03/30-21:38:10.938 3a1c Compacting 1@1 + 5@2 files
-2023/03/30-21:38:11.182 3a1c Generated table #94@1: 44611 keys, 2226766 bytes
-2023/03/30-21:38:11.418 3a1c Generated table #95@1: 5876 keys, 2161692 bytes
-2023/03/30-21:38:11.605 3a1c Generated table #96@1: 2274 keys, 2160872 bytes
-2023/03/30-21:38:11.847 3a1c Generated table #97@1: 17932 keys, 2232223 bytes
-2023/03/30-21:38:12.067 3a1c Generated table #98@1: 56453 keys, 2181272 bytes
-2023/03/30-21:38:12.067 3a1c Compacted 1@1 + 5@2 files => 10962825 bytes
-2023/03/30-21:38:12.082 3a1c compacted to: files[ 0 0 5 0 0 0 0 ]
-2023/03/30-21:38:12.083 3a1c Delete type=2 #86
-2023/03/30-21:38:12.083 3a1c Delete type=2 #87
-2023/03/30-21:38:12.083 3a1c Delete type=2 #88
-2023/03/30-21:38:12.083 3a1c Delete type=2 #89
-2023/03/30-21:38:12.083 3a1c Delete type=2 #90
-2023/03/30-21:38:12.083 3a1c Delete type=2 #93
-2023/03/30-21:38:24.882 3a1c Level-0 table #100: started
-2023/03/30-21:38:25.134 3a1c Level-0 table #100: 1015497 bytes OK
-2023/03/30-21:38:25.167 3a1c Delete type=0 #91
-2023/03/30-21:38:25.943 28d8 Compacting 1@1 + 5@2 files
-2023/03/30-21:38:26.228 28d8 Generated table #101@1: 44327 keys, 2226257 bytes
-2023/03/30-21:38:26.501 28d8 Generated table #102@1: 8590 keys, 2163561 bytes
-2023/03/30-21:38:26.759 28d8 Generated table #103@1: 2310 keys, 2161774 bytes
-2023/03/30-21:38:26.971 28d8 Generated table #104@1: 16799 keys, 2225384 bytes
-2023/03/30-21:38:27.134 28d8 Generated table #105@1: 51420 keys, 2229897 bytes
-2023/03/30-21:38:27.228 28d8 Generated table #106@1: 10419 keys, 222517 bytes
-2023/03/30-21:38:27.228 28d8 Compacted 1@1 + 5@2 files => 11229390 bytes
-2023/03/30-21:38:27.282 28d8 compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/03/30-21:38:27.283 28d8 Delete type=2 #94
-2023/03/30-21:38:27.283 28d8 Delete type=2 #95
-2023/03/30-21:38:27.283 28d8 Delete type=2 #96
-2023/03/30-21:38:27.283 28d8 Delete type=2 #97
-2023/03/30-21:38:27.283 28d8 Delete type=2 #98
-2023/03/30-21:38:27.283 28d8 Delete type=2 #100
-2023/03/30-21:38:42.066 28d8 Level-0 table #108: started
-2023/03/30-21:38:42.238 28d8 Level-0 table #108: 1069389 bytes OK
-2023/03/30-21:38:42.276 28d8 Delete type=0 #99
-2023/03/30-21:38:42.823 3a1c Compacting 1@1 + 6@2 files
-2023/03/30-21:38:43.136 3a1c Generated table #109@1: 43553 keys, 2224128 bytes
-2023/03/30-21:38:43.337 3a1c Generated table #110@1: 11933 keys, 2167976 bytes
-2023/03/30-21:38:43.534 3a1c Generated table #111@1: 2356 keys, 2160204 bytes
-2023/03/30-21:38:43.768 3a1c Generated table #112@1: 15601 keys, 2218719 bytes
-2023/03/30-21:38:43.987 3a1c Generated table #113@1: 44430 keys, 2225893 bytes
-2023/03/30-21:38:44.091 3a1c Generated table #114@1: 25260 keys, 536225 bytes
-2023/03/30-21:38:44.091 3a1c Compacted 1@1 + 6@2 files => 11533145 bytes
-2023/03/30-21:38:44.107 3a1c compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/03/30-21:38:44.107 3a1c Delete type=2 #101
-2023/03/30-21:38:44.107 3a1c Delete type=2 #102
-2023/03/30-21:38:44.107 3a1c Delete type=2 #103
-2023/03/30-21:38:44.107 3a1c Delete type=2 #104
-2023/03/30-21:38:44.107 3a1c Delete type=2 #105
-2023/03/30-21:38:44.107 3a1c Delete type=2 #106
-2023/03/30-21:38:44.107 3a1c Delete type=2 #108
-2023/03/30-21:39:04.156 28d8 Level-0 table #116: started
-2023/03/30-21:39:04.316 28d8 Level-0 table #116: 1046860 bytes OK
-2023/03/30-21:39:04.359 28d8 Delete type=0 #107
-2023/03/30-21:39:04.369 28d8 Compacting 1@1 + 6@2 files
-2023/03/30-21:39:04.677 28d8 Generated table #117@1: 42693 keys, 2222893 bytes
-2023/03/30-21:39:04.888 28d8 Generated table #118@1: 16283 keys, 2174684 bytes
-2023/03/30-21:39:05.095 28d8 Generated table #119@1: 2399 keys, 2160083 bytes
-2023/03/30-21:39:05.319 28d8 Generated table #120@1: 14075 keys, 2210960 bytes
-2023/03/30-21:39:05.563 28d8 Generated table #121@1: 34734 keys, 2223402 bytes
-2023/03/30-21:39:05.745 28d8 Generated table #122@1: 42326 keys, 894846 bytes
-2023/03/30-21:39:05.745 28d8 Compacted 1@1 + 6@2 files => 11886868 bytes
-2023/03/30-21:39:05.790 28d8 compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/03/30-21:39:05.790 28d8 Delete type=2 #109
-2023/03/30-21:39:05.790 28d8 Delete type=2 #110
-2023/03/30-21:39:05.790 28d8 Delete type=2 #111
-2023/03/30-21:39:05.790 28d8 Delete type=2 #112
-2023/03/30-21:39:05.790 28d8 Delete type=2 #113
-2023/03/30-21:39:05.790 28d8 Delete type=2 #114
-2023/03/30-21:39:05.791 28d8 Delete type=2 #116
-2023/03/30-21:39:25.940 4734 Level-0 table #124: started
-2023/03/30-21:39:26.112 4734 Level-0 table #124: 1053494 bytes OK
-2023/03/30-21:39:26.136 4734 Delete type=0 #115
-2023/03/30-21:39:26.151 4734 Compacting 1@1 + 6@2 files
-2023/03/30-21:39:26.437 4734 Generated table #125@1: 42110 keys, 2221746 bytes
-2023/03/30-21:39:26.664 4734 Generated table #126@1: 17779 keys, 2176244 bytes
-2023/03/30-21:39:26.825 4734 Generated table #127@1: 2404 keys, 2161517 bytes
-2023/03/30-21:39:27.030 4734 Generated table #128@1: 13492 keys, 2207065 bytes
-2023/03/30-21:39:27.248 4734 Generated table #129@1: 27542 keys, 2218786 bytes
-2023/03/30-21:39:27.441 4734 Generated table #130@1: 59387 keys, 1222519 bytes
-2023/03/30-21:39:27.441 4734 Compacted 1@1 + 6@2 files => 12207877 bytes
-2023/03/30-21:39:27.473 4734 compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/03/30-21:39:27.473 4734 Delete type=2 #117
-2023/03/30-21:39:27.474 4734 Delete type=2 #118
-2023/03/30-21:39:27.474 4734 Delete type=2 #119
-2023/03/30-21:39:27.474 4734 Delete type=2 #120
-2023/03/30-21:39:27.474 4734 Delete type=2 #121
-2023/03/30-21:39:27.474 4734 Delete type=2 #122
-2023/03/30-21:39:27.474 4734 Delete type=2 #124
-2023/03/30-21:39:47.111 28d8 Level-0 table #132: started
-2023/03/30-21:39:47.260 28d8 Level-0 table #132: 1022696 bytes OK
-2023/03/30-21:39:47.296 28d8 Delete type=0 #123
-2023/03/30-21:39:47.307 28d8 Compacting 1@1 + 6@2 files
-2023/03/30-21:39:47.623 28d8 Generated table #133@1: 39805 keys, 2219480 bytes
-2023/03/30-21:39:47.883 28d8 Generated table #134@1: 22140 keys, 2183587 bytes
-2023/03/30-21:39:48.084 28d8 Generated table #135@1: 2405 keys, 2162950 bytes
-2023/03/30-21:39:48.420 28d8 Generated table #136@1: 12482 keys, 2201472 bytes
-2023/03/30-21:39:48.655 28d8 Generated table #137@1: 26581 keys, 2222303 bytes
-2023/03/30-21:39:48.866 28d8 Generated table #138@1: 67121 keys, 1510852 bytes
-2023/03/30-21:39:48.866 28d8 Compacted 1@1 + 6@2 files => 12500644 bytes
-2023/03/30-21:39:48.898 28d8 compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/03/30-21:39:48.898 28d8 Delete type=2 #125
-2023/03/30-21:39:48.899 28d8 Delete type=2 #126
-2023/03/30-21:39:48.899 28d8 Delete type=2 #127
-2023/03/30-21:39:48.899 28d8 Delete type=2 #128
-2023/03/30-21:39:48.899 28d8 Delete type=2 #129
-2023/03/30-21:39:48.899 28d8 Delete type=2 #130
-2023/03/30-21:39:48.899 28d8 Delete type=2 #132
-2023/03/30-21:40:05.680 42bc Level-0 table #140: started
-2023/03/30-21:40:05.845 42bc Level-0 table #140: 1059299 bytes OK
-2023/03/30-21:40:05.889 42bc Delete type=0 #131
-2023/03/30-21:40:06.895 3a1c Compacting 1@1 + 6@2 files
-2023/03/30-21:40:07.154 3a1c Generated table #141@1: 41390 keys, 2221289 bytes
-2023/03/30-21:40:07.415 3a1c Generated table #142@1: 20368 keys, 2179446 bytes
-2023/03/30-21:40:07.575 3a1c Generated table #143@1: 2392 keys, 2160087 bytes
-2023/03/30-21:40:07.771 3a1c Generated table #144@1: 12739 keys, 2203397 bytes
-2023/03/30-21:40:07.989 3a1c Generated table #145@1: 26402 keys, 2219955 bytes
-2023/03/30-21:40:08.197 3a1c Generated table #146@1: 82246 keys, 1916686 bytes
-2023/03/30-21:40:08.197 3a1c Compacted 1@1 + 6@2 files => 12900860 bytes
-2023/03/30-21:40:08.222 3a1c compacted to: files[ 0 0 6 0 0 0 0 ]
-2023/03/30-21:40:08.222 3a1c Delete type=2 #133
-2023/03/30-21:40:08.222 3a1c Delete type=2 #134
-2023/03/30-21:40:08.222 3a1c Delete type=2 #135
-2023/03/30-21:40:08.223 3a1c Delete type=2 #136
-2023/03/30-21:40:08.223 3a1c Delete type=2 #137
-2023/03/30-21:40:08.223 3a1c Delete type=2 #138
-2023/03/30-21:40:08.223 3a1c Delete type=2 #140
-2023/03/30-21:40:19.396 28d8 Level-0 table #148: started
-2023/03/30-21:40:19.553 28d8 Level-0 table #148: 1104373 bytes OK
-2023/03/30-21:40:19.581 28d8 Delete type=0 #139
-2023/03/30-21:40:19.608 4734 Compacting 1@1 + 6@2 files
-2023/03/30-21:40:19.925 4734 Generated table #149@1: 40825 keys, 2221241 bytes
-2023/03/30-21:40:20.210 4734 Generated table #150@1: 21387 keys, 2181480 bytes
-2023/03/30-21:40:20.409 4734 Generated table #151@1: 2404 keys, 2160940 bytes
-2023/03/30-21:40:20.675 4734 Generated table #152@1: 12560 keys, 2201867 bytes
-2023/03/30-21:40:20.998 4734 Generated table #153@1: 26524 keys, 2222237 bytes
-2023/03/30-21:40:21.261 4734 Generated table #154@1: 91172 keys, 2239437 bytes
-2023/03/30-21:40:21.335 4734 Generated table #155@1: 9576 keys, 204575 bytes
-2023/03/30-21:40:21.335 4734 Compacted 1@1 + 6@2 files => 13431777 bytes
-2023/03/30-21:40:21.363 4734 compacted to: files[ 0 0 7 0 0 0 0 ]
-2023/03/30-21:40:21.363 4734 Delete type=2 #141
-2023/03/30-21:40:21.363 4734 Delete type=2 #142
-2023/03/30-21:40:21.363 4734 Delete type=2 #143
-2023/03/30-21:40:21.363 4734 Delete type=2 #144
-2023/03/30-21:40:21.363 4734 Delete type=2 #145
-2023/03/30-21:40:21.363 4734 Delete type=2 #146
-2023/03/30-21:40:21.364 4734 Delete type=2 #148
-2023/03/30-21:40:31.843 3a1c Level-0 table #157: started
-2023/03/30-21:40:31.986 3a1c Level-0 table #157: 1093478 bytes OK
-2023/03/30-21:40:32.013 3a1c Delete type=0 #147
-2023/03/30-21:40:33.009 28d8 Compacting 1@1 + 7@2 files
-2023/03/30-21:40:33.365 28d8 Generated table #158@1: 40388 keys, 2220640 bytes
-2023/03/30-21:40:33.617 28d8 Generated table #159@1: 22075 keys, 2184029 bytes
-2023/03/30-21:40:33.836 28d8 Generated table #160@1: 2405 keys, 2162950 bytes
-2023/03/30-21:40:34.019 28d8 Generated table #161@1: 12472 keys, 2201048 bytes
-2023/03/30-21:40:34.246 28d8 Generated table #162@1: 26563 keys, 2224108 bytes
-2023/03/30-21:40:34.548 28d8 Generated table #163@1: 84670 keys, 2230367 bytes
-2023/03/30-21:40:34.669 28d8 Generated table #164@1: 34865 keys, 731143 bytes
-2023/03/30-21:40:34.669 28d8 Compacted 1@1 + 7@2 files => 13954285 bytes
-2023/03/30-21:40:34.722 28d8 compacted to: files[ 0 0 7 0 0 0 0 ]
-2023/03/30-21:40:34.722 28d8 Delete type=2 #149
-2023/03/30-21:40:34.722 28d8 Delete type=2 #150
-2023/03/30-21:40:34.723 28d8 Delete type=2 #151
-2023/03/30-21:40:34.723 28d8 Delete type=2 #152
-2023/03/30-21:40:34.723 28d8 Delete type=2 #153
-2023/03/30-21:40:34.723 28d8 Delete type=2 #154
-2023/03/30-21:40:34.723 28d8 Delete type=2 #155
-2023/03/30-21:40:34.723 28d8 Delete type=2 #157
+2023/04/01-20:24:19.662 35d0 Creating DB C:\Users\ng988\Documents\project\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/04/01-20:24:19.892 35d0 Reusing MANIFEST C:\Users\ng988\Documents\project\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/01-20:24:20.070 3590 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/01-20:24:59.585 35d0 Level-0 table #5: started
+2023/04/01-20:24:59.768 35d0 Level-0 table #5: 1122916 bytes OK
+2023/04/01-20:24:59.833 35d0 Delete type=0 #3
+2023/04/01-20:25:04.756 35c0 Level-0 table #7: started
+2023/04/01-20:25:04.994 35c0 Level-0 table #7: 1155170 bytes OK
+2023/04/01-20:25:05.064 35c0 Delete type=0 #4
+2023/04/01-20:25:05.066 356c Compacting 1@1 + 1@2 files
+2023/04/01-20:25:05.376 356c Generated table #8@1: 18492 keys, 1365404 bytes
+2023/04/01-20:25:05.376 356c Compacted 1@1 + 1@2 files => 1365404 bytes
+2023/04/01-20:25:05.415 356c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/01-20:25:06.737 1fe4 Level-0 table #10: started
+2023/04/01-20:25:06.900 1fe4 Level-0 table #10: 1235317 bytes OK
+2023/04/01-20:25:06.932 1fe4 Delete type=2 #5
+2023/04/01-20:25:06.932 1fe4 Delete type=0 #6
+2023/04/01-20:25:06.932 1fe4 Delete type=2 #7
+2023/04/01-20:25:07.024 35c8 Compacting 1@1 + 1@2 files
+2023/04/01-20:25:07.290 35c8 Generated table #11@1: 27397 keys, 1717441 bytes
+2023/04/01-20:25:07.290 35c8 Compacted 1@1 + 1@2 files => 1717441 bytes
+2023/04/01-20:25:07.331 35c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/01-20:25:07.617 3590 Level-0 table #13: started
+2023/04/01-20:25:07.817 3590 Level-0 table #13: 1200128 bytes OK
+2023/04/01-20:25:07.848 3590 Delete type=2 #8
+2023/04/01-20:25:07.848 3590 Delete type=0 #9
+2023/04/01-20:25:07.848 3590 Delete type=2 #10
+2023/04/01-20:25:07.889 3564 Compacting 1@1 + 1@2 files
+2023/04/01-20:25:08.147 3564 Generated table #14@1: 33416 keys, 2057259 bytes
+2023/04/01-20:25:08.147 3564 Compacted 1@1 + 1@2 files => 2057259 bytes
+2023/04/01-20:25:08.206 3564 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/01-20:25:08.477 3564 Level-0 table #16: started
+2023/04/01-20:25:08.721 3564 Level-0 table #16: 1111794 bytes OK
+2023/04/01-20:25:08.773 3564 Delete type=2 #11
+2023/04/01-20:25:08.773 3564 Delete type=0 #12
+2023/04/01-20:25:08.773 3564 Delete type=2 #13
+2023/04/01-20:25:08.780 3564 Compacting 1@1 + 1@2 files
+2023/04/01-20:25:09.037 3564 Generated table #17@1: 25719 keys, 2212425 bytes
+2023/04/01-20:25:09.117 3564 Generated table #18@1: 9760 keys, 413760 bytes
+2023/04/01-20:25:09.117 3564 Compacted 1@1 + 1@2 files => 2626185 bytes
+2023/04/01-20:25:09.148 3564 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/01-20:25:09.149 3564 Delete type=2 #14
+2023/04/01-20:25:09.150 3564 Delete type=2 #16
+2023/04/01-20:25:09.448 3564 Level-0 table #20: started
+2023/04/01-20:25:09.566 3564 Level-0 table #20: 918100 bytes OK
+2023/04/01-20:25:09.614 3564 Delete type=0 #15
+2023/04/01-20:25:09.720 3590 Compacting 1@1 + 2@2 files
+2023/04/01-20:25:09.992 3590 Generated table #21@1: 48165 keys, 2230559 bytes
+2023/04/01-20:25:10.143 3590 Generated table #22@1: 16144 keys, 1235409 bytes
+2023/04/01-20:25:10.143 3590 Compacted 1@1 + 2@2 files => 3465968 bytes
+2023/04/01-20:25:10.173 3590 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/01-20:25:10.173 3590 Delete type=2 #17
+2023/04/01-20:25:10.173 3590 Delete type=2 #18
+2023/04/01-20:25:10.173 3590 Delete type=2 #20
+2023/04/01-20:25:14.018 3590 Level-0 table #24: started
+2023/04/01-20:25:14.149 3590 Level-0 table #24: 922082 bytes OK
+2023/04/01-20:25:14.190 3590 Delete type=0 #19
+2023/04/01-20:25:14.700 3564 Compacting 1@1 + 2@2 files
+2023/04/01-20:25:15.026 3564 Generated table #25@1: 36911 keys, 2220690 bytes
+2023/04/01-20:25:15.225 3564 Generated table #26@1: 19570 keys, 1187163 bytes
+2023/04/01-20:25:15.225 3564 Compacted 1@1 + 2@2 files => 3407853 bytes
+2023/04/01-20:25:15.273 3564 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/01-20:25:15.273 3564 Delete type=2 #21
+2023/04/01-20:25:15.273 3564 Delete type=2 #22
+2023/04/01-20:25:15.273 3564 Delete type=2 #24
+2023/04/01-20:25:27.893 3564 Level-0 table #28: started
+2023/04/01-20:25:28.334 3564 Level-0 table #28: 1048193 bytes OK
+2023/04/01-20:25:28.372 3564 Delete type=0 #23
+2023/04/01-20:25:29.048 1b44 Compacting 1@1 + 2@2 files
+2023/04/01-20:25:29.347 1b44 Generated table #29@1: 37674 keys, 2222100 bytes
+2023/04/01-20:25:29.928 1b44 Generated table #30@1: 31024 keys, 1582535 bytes
+2023/04/01-20:25:29.928 1b44 Compacted 1@1 + 2@2 files => 3804635 bytes
+2023/04/01-20:25:29.981 1b44 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/01-20:25:29.982 1b44 Delete type=2 #25
+2023/04/01-20:25:29.982 1b44 Delete type=2 #26
+2023/04/01-20:25:29.982 1b44 Delete type=2 #28
+2023/04/01-20:25:44.959 3564 Level-0 table #32: started
+2023/04/01-20:25:45.143 3564 Level-0 table #32: 1238422 bytes OK
+2023/04/01-20:25:45.189 3564 Delete type=0 #27
+2023/04/01-20:25:45.198 3564 Compacting 1@1 + 2@2 files
+2023/04/01-20:25:45.550 3564 Generated table #33@1: 40738 keys, 2223726 bytes
+2023/04/01-20:25:45.550 3564 Level-0 table #35: started
+2023/04/01-20:25:45.772 3564 Level-0 table #35: 1404699 bytes OK
+2023/04/01-20:25:45.840 3564 Delete type=0 #31
+2023/04/01-20:25:45.905 3564 Level-0 table #38: started
+2023/04/01-20:25:46.110 3564 Level-0 table #38: 1415523 bytes OK
+2023/04/01-20:25:46.212 3564 Delete type=0 #34
+2023/04/01-20:25:46.693 3564 Generated table #36@1: 24403 keys, 2197694 bytes
+2023/04/01-20:25:46.705 3564 Level-0 table #40: started
+2023/04/01-20:25:46.909 3564 Level-0 table #40: 1422167 bytes OK
+2023/04/01-20:25:46.963 3564 Delete type=0 #37
+2023/04/01-20:25:47.098 3564 Generated table #41@1: 13109 keys, 290749 bytes
+2023/04/01-20:25:47.098 3564 Compacted 1@1 + 2@2 files => 4712169 bytes
+2023/04/01-20:25:47.147 3564 compacted to: files[ 3 0 3 0 0 0 0 ]
+2023/04/01-20:25:47.148 3564 Delete type=2 #29
+2023/04/01-20:25:47.148 3564 Delete type=2 #30
+2023/04/01-20:25:47.148 3564 Delete type=2 #32
+2023/04/01-20:25:47.149 3564 Level-0 table #43: started
+2023/04/01-20:25:47.324 3564 Level-0 table #43: 1366456 bytes OK
+2023/04/01-20:25:47.373 3564 Delete type=0 #39
+2023/04/01-20:25:47.374 237c Compacting 4@0 + 0@1 files
+2023/04/01-20:25:47.709 237c Generated table #44@0: 23321 keys, 2178831 bytes
+2023/04/01-20:25:47.709 237c Level-0 table #46: started
+2023/04/01-20:25:47.859 237c Level-0 table #46: 1335746 bytes OK
+2023/04/01-20:25:47.915 237c Delete type=0 #42
+2023/04/01-20:25:48.117 237c Generated table #47@0: 2710 keys, 2158794 bytes
+2023/04/01-20:25:48.398 237c Generated table #48@0: 14337 keys, 1258800 bytes
+2023/04/01-20:25:48.398 237c Compacted 4@0 + 0@1 files => 5596425 bytes
+2023/04/01-20:25:48.430 237c compacted to: files[ 1 3 3 0 0 0 0 ]
+2023/04/01-20:25:48.431 237c Compacting 1@0 + 3@1 files
+2023/04/01-20:25:48.721 237c Generated table #49@0: 29439 keys, 2184655 bytes
+2023/04/01-20:25:48.756 237c Level-0 table #52: started
+2023/04/01-20:25:48.923 237c Level-0 table #52: 742838 bytes OK
+2023/04/01-20:25:48.964 237c Delete type=2 #35
+2023/04/01-20:25:48.964 237c Delete type=2 #38
+2023/04/01-20:25:48.964 237c Delete type=2 #40
+2023/04/01-20:25:48.964 237c Delete type=2 #43
+2023/04/01-20:25:48.964 237c Delete type=0 #45
+2023/04/01-20:25:49.099 237c Generated table #50@0: 2426 keys, 2157831 bytes
+2023/04/01-20:25:49.336 237c Generated table #53@0: 15562 keys, 2216269 bytes
+2023/04/01-20:25:49.431 237c Generated table #54@0: 4477 keys, 381218 bytes
+2023/04/01-20:25:49.431 237c Compacted 1@0 + 3@1 files => 6939973 bytes
+2023/04/01-20:25:49.471 237c compacted to: files[ 1 4 3 0 0 0 0 ]
+2023/04/01-20:25:49.472 237c Compacting 1@0 + 4@1 files
+2023/04/01-20:25:49.758 237c Generated table #55@0: 47512 keys, 2205547 bytes
+2023/04/01-20:25:49.934 237c Generated table #56@0: 2353 keys, 2162864 bytes
+2023/04/01-20:25:50.184 237c Generated table #57@0: 28551 keys, 1845526 bytes
+2023/04/01-20:25:50.184 237c Compacted 1@0 + 4@1 files => 6213937 bytes
+2023/04/01-20:25:50.230 237c compacted to: files[ 0 3 3 0 0 0 0 ]
+2023/04/01-20:25:50.230 237c Delete type=2 #44
+2023/04/01-20:25:50.230 237c Delete type=2 #46
+2023/04/01-20:25:50.230 237c Delete type=2 #47
+2023/04/01-20:25:50.230 237c Delete type=2 #48
+2023/04/01-20:25:50.243 237c Expanding@1 1+2 (2205547+4421420 bytes) to 3+2 (6213937+4421420 bytes)
+2023/04/01-20:25:50.243 237c Compacting 3@1 + 2@2 files
+2023/04/01-20:25:50.534 237c Generated table #58@1: 38159 keys, 2223996 bytes
+2023/04/01-20:25:50.734 237c Generated table #59@1: 2424 keys, 2157582 bytes
+2023/04/01-20:25:50.892 237c Generated table #60@1: 2311 keys, 2158484 bytes
+2023/04/01-20:25:51.099 237c Generated table #61@1: 21225 keys, 2243136 bytes
+2023/04/01-20:25:51.242 237c Generated table #62@1: 31283 keys, 1364161 bytes
+2023/04/01-20:25:51.242 237c Compacted 3@1 + 2@2 files => 10147359 bytes
+2023/04/01-20:25:51.272 237c compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/04/01-20:25:51.273 237c Delete type=2 #33
+2023/04/01-20:25:51.273 237c Delete type=2 #36
+2023/04/01-20:25:51.273 237c Delete type=2 #49
+2023/04/01-20:25:51.273 237c Delete type=2 #50
+2023/04/01-20:25:51.273 237c Delete type=2 #52
+2023/04/01-20:25:51.273 237c Delete type=2 #53
+2023/04/01-20:25:51.273 237c Delete type=2 #54
+2023/04/01-20:25:51.273 237c Delete type=2 #55
+2023/04/01-20:25:51.273 237c Delete type=2 #56
+2023/04/01-20:25:51.273 237c Delete type=2 #57
